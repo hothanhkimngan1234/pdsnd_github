@@ -4,7 +4,7 @@ import numpy as np
 # This .py file analyze data from bike demand.
 
 
-CITY_DATA = { 'chicago1': 'chicago.csv',
+CITY_DATA = { 'chicago2': 'chicago.csv',
               'new york city': 'new_york_city.csv',
               'washington': 'washington.csv' }
 month_data = {'january':1,'february':2,'march':3,'april':4,'may':5,'june':6}
