@@ -9,7 +9,7 @@ Kim Ngan
   Thanks to the rise in information technologies, it is easy for a user of the system to access a dock within the system to unlock or return bicycles. These technologies also provide a wealth of data that can be used to explore how these bike-sharing systems are used.
 
   In this project, you will use data provided by Motivate(opens in a new tab), a bike share system provider for many major cities in the United States, to uncover bike share usage patterns. You will compare the system usage between three large cities: Chicago, New York City, and Washington, DC.
-
+## version:1
 ## Params
 1. Popular times of travel (i.e., occurs most often in the start time)
    - most common month
@@ -41,4 +41,4 @@ Kim Ngan
 3. washington.csv
 
 
-## Note: This project belong to Ngan
+## Note: This project belong to Ngan1
